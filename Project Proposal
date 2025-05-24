@@ -1,0 +1,13 @@
+Requirements
+Present your project proposal in a video that includes follows:
+a. The system idea/ concept:
+  • Synopsis and general idea about the proposed topic/system
+  • System objectives and/or purpose, what the user can achieve/do in the system
+  • How to use the system
+  • Reporting, what is the report/output that will be generated in the system.
+b. How your project will fullfil the project specifications:
+  •  Array of objects (static or dynamic)
+  • Encapsulation
+  • Association: aggregation and composition
+  • Inheritance and polymorphism
+  • Exception handling
